@@ -24,7 +24,7 @@
 
 ## 📸 Preview
 
-![Screenshot do Quiz](public_screenshot.png)
+![Screenshot do Quiz](assets/public_screenshot.png)
 
 > _Adicione um screenshot da aplicação em `public_screenshot.png` após rodar o projeto._
 
